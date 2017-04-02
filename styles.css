@@ -1,5 +1,6 @@
 body{
-  background-image: url('http://media.hdp.hbgusa.com/coverimages/9780316231756');
+  /*background-image: url('http://media.hdp.hbgusa.com/coverimages/9780316231756');*/
+  background-color: violet;
   background-size:auto;
 }
 
